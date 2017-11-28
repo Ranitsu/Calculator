@@ -1,0 +1,1 @@
+C:\NASM\nasm -o text.com -f bin cal.asm
